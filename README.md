@@ -1,4 +1,3 @@
-![logo](https://github.com/Tarungupta18/Tarungupta18/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
