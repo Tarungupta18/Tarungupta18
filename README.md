@@ -49,10 +49,20 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<table width="100%" align="center">
+<tr>
+<td width="400em">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarungupta18&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarungupta18&theme=highcontrast&hide_border=false) <br>
+</td>
+<td width="400em">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarungupta18&theme=highcontrast&hide_border=false) 
+</td>
+</tr>
+</table>
+
+<br>
 
 </div>
 
