@@ -111,11 +111,36 @@
   </p>
 </details>
 
+<!-- Connect Section with Animated Icons -->
+<h2>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50">
+  Let's Connect
+</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="mailto:tkg21430@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/tarun-gupta-100a1b259">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/tarungupta18">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tarungupta_11">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=tarungupta18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Dev Quote -->
+<h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk4Y3g5Ymd2bTh6cWYyN2F5NnAwcG9uZnBxaXVkbnUyZ2QyZHR6eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QBw6UZxWWxoHCGJwuw/giphy.gif" width="30">
+  Dev Quote
+</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 
